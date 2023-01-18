@@ -1,0 +1,13 @@
+{
+  "name": "crutch/consumer",
+  "type": "library",
+  "description": "consumer interface",
+  "require": {
+    "php": "^7.4 || ^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Crutch\\Consumer\\": "src/"
+    }
+  }
+}

@@ -1,12 +1,8 @@
 # crutch/consumer
 
-consumer interface
+Note that this is not a Consumer implementation of its own. It is merely abstractions that describe the components of a Consumer.
 
-# Install
-
-```bash
-composer require crutch/consumer
-```
+The installable [package](https://packagist.org/packages/crutch/consumer) and [implementations](https://packagist.org/providers/crutch/consumer-implementation) are listed on Packagist.
 
 You may use `\Crutch\Consumer\Consumers\RouteConsumer` for split consumers by topic
 

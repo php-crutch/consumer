@@ -2,10 +2,10 @@
   "name": "crutch/consumer",
   "type": "library",
   "description": "consumer interface",
+  "license": ["MIT"],
   "require": {
     "php": "^7.4 || ^8.0"
   },
-  "license": ["MIT"],
   "autoload": {
     "psr-4": {
       "Crutch\\Consumer\\": "src/"
